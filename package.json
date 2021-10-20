@@ -1,0 +1,24 @@
+{
+  "name": "eyes",
+  "version": "1.0.0",
+  "description": "A Node.js pentesting utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smaraghi/eyes.git"
+  },
+  "author": "Serven Maraghi & Noah Altunian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smaraghi/eyes/issues"
+  },
+  "homepage": "https://github.com/smaraghi/eyes#readme",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "readline": "^1.3.0",
+    "whois": "^2.13.7"
+  }
+}
